@@ -6,7 +6,7 @@
 
 &#128205; **Kraków, Poland**
 
-___
+***
 
 ### Contact Information: 
 
@@ -16,7 +16,7 @@ Discord: ![](https://dcbadge.vercel.app/api/shield/546591219828916245)
 
 Linkedin: [Alesia Gres](https://www.linkedin.com/in/alesia-gres-3a757286/)
 
-___
+***
 
 ### Professional summary: 
 
@@ -24,7 +24,7 @@ Front-End Developer with the experience in designing user interfaces. Specialize
 
 Current experience is with Blazor framework and .Net environment, in the same time dedicated to follow the latest JS technologies.
 
-___
+***
 
 ### Skills: 
 
@@ -42,7 +42,7 @@ ___
 - Figma
 - Material Design 
 
-___
+***
 
 ### Work Experience: 
 
@@ -69,7 +69,7 @@ ___
 - Communication with the client in English
 - Working in a scrum team
 
-___
+***
 
 ### Education: 
 
@@ -77,7 +77,7 @@ ___
 
 International Relations Faculty
 
-___
+***
 
 ### Languages: 
 - **English:** B2/C1
