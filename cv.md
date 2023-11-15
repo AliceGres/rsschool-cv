@@ -1,4 +1,3 @@
-
 # Alesia Gres 
 
 ![Photo](./photo.jpg)
@@ -6,6 +5,7 @@
 ### Front-end Developer
 
 &#128205; **Kraków, Poland**
+
 ___
 
 ### Contact Information: 
@@ -15,6 +15,7 @@ E-mail: inthelight987@gmail.com
 Discord: ![](https://dcbadge.vercel.app/api/shield/546591219828916245)
 
 Linkedin: [Alesia Gres](https://www.linkedin.com/in/alesia-gres-3a757286/)
+
 ___
 
 ### Professional summary: 
@@ -22,6 +23,7 @@ ___
 Front-End Developer with the experience in designing user interfaces. Specialized in creating layouts, components, and establishing CSS architectures for new projects. Proficient in transforming old static websites into responsive UI designs. Skilled in interviewing and mentoring new team members, contributing to project growth and success. 
 
 Current experience is with Blazor framework and .Net environment, in the same time dedicated to follow the latest JS technologies.
+
 ___
 
 ### Skills: 
@@ -39,6 +41,7 @@ ___
 - Bootstrap
 - Figma
 - Material Design 
+
 ___
 
 ### Work Experience: 
@@ -65,6 +68,7 @@ ___
 - Bugfixing
 - Communication with the client in English
 - Working in a scrum team
+
 ___
 
 ### Education: 
@@ -72,6 +76,7 @@ ___
 **Belarusian State Uniwersity** / 2007-2012
 
 International Relations Faculty
+
 ___
 
 ### Languages: 
