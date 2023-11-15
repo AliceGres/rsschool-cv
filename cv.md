@@ -10,7 +10,7 @@ ___
 
 ### Contact Information: 
 
-&#128231; E-mail: inthelight987@gmail.com 
+E-mail: inthelight987@gmail.com 
 
 Discord: ![](https://dcbadge.vercel.app/api/shield/546591219828916245)
 
