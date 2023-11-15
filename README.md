@@ -1,1 +1,1 @@
-# rsschool-cv
+https://AliceGres.github.io/rsschool-cv/cv
